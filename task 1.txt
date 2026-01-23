@@ -1,0 +1,70 @@
+single data type
+  int-integer
+     example :a=10
+
+  float-decimal
+    example :a=5.6
+   
+  string
+     example :a="Hello"   
+
+  Boolean
+     example :a=true(or)false
+
+  none type
+     example :e=None
+multiple data type
+   list
+     example :list1=[10,20,30]
+
+   tuple
+     example :tuple1=(10,20,30)
+
+   set
+     example :set1={10,20,30}
+
+   dictionary
+     example :dict1={"Name": "Akash", "Age":21}
+
+
+     operators
+arithmetic operators
+Addition
+print("Addition:", a + b)  
+
+Subtraction
+print("Subtraction:", a - b) 
+
+Multiplication
+print("Multiplication:", a * b)  
+
+Division
+print("Division:", a / b) 
+
+Floor Division
+print("Floor Division:", a // b)  
+
+Modulus
+print("Modulus:", a % b) 
+
+Exponentiation
+print("Exponentiation:", a ** b)
+
+Comparison Operators
+
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+print(a >= b)
+print(a <= b)
+
+Logical Operators
+a = True
+b = False
+print(a and b)
+print(a or b)
+print(not a)
+
+
+
